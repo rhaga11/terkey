@@ -12,7 +12,7 @@ Copy this :
 'clear'
 figlet welcome | lolcat
 date | lolcat
-echo '\n'
+echo '============================\n' | lolcat
 cd /sdcard
 
 
