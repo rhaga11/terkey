@@ -1,0 +1,28 @@
+Cara Setup Termux Pemula
+
+$ pkg update && pkg upgrade
+$ pkg install git python
+$ git clone https://github.com/anarki-install/terkey
+$ cd terkey
+$ python terkey.py
+
+Restart termux ~
+
+$ pkg install curl figlet
+$ gem install lolcat
+$ sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+$ nano ~/.zshrc
+
+Copy this :
+
+
+'clear'
+figlet welcome | lolcat
+date | lolcat
+echo '\n'
+cd /sdcard
+
+
+Save using ( ctrl + x + y )
+
+$ exit
