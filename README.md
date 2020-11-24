@@ -9,7 +9,7 @@
 
 ![](https://i.ibb.co/yf5YpVZ/photo-2020-11-24-20-16-05.jpg)
 
-**Restart termux menggunakan `$exit`
+**Restart termux menggunakan `$exit`**                                  
 **Jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux**
 
 > 'clear'               
