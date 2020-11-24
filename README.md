@@ -5,8 +5,11 @@
 > gem install lolcat                                
 > sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"   
 
+**Pilih salah satu warna dan ukuran termux menurut anda**
+
 ![](https://i.ibb.co/yf5YpVZ/photo-2020-11-24-20-16-05.jpg)
 
+**Restart termux menggunakan `$exit`
 **Jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux**
 
 > 'clear'               
@@ -15,7 +18,9 @@
 > echo '============================\n' | lolcat              
 > cd /sdcard                        
 
-**Copy perintah diatas di bagian paling bawah file**
+**Copy perintah diatas dan paste dibagian paling bawah file**
+
+![](https://i.ibb.co/sVYQ0Nj/photo-2020-11-24-20-16-02.jpg)
 
 > pkg install git python                          
 > git clone https://github.com/anarki-install/terkey    
