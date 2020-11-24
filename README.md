@@ -24,6 +24,7 @@ cd /sdcard
 
 ![](https://i.ibb.co/sVYQ0Nj/photo-2020-11-24-20-16-02.jpg)
 
+**Simpan dengan `ctrl + x + y` `enter`**
 > $ `pkg install git python`                          
 > $ `git clone https://github.com/anarki-install/terkey`    
 > $ `cd terkey`                           
