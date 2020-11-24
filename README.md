@@ -28,4 +28,4 @@
 > python terkey.py                        
 > exit                              
 
-**Restart termux ~**
+**Restart termux**
