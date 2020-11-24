@@ -1,4 +1,4 @@
-** ▪ SETUP TERMUX STANDAR **
+**SETUP TERMUX STANDAR**
 
 
 **Update package termux**
