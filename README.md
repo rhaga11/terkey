@@ -1,6 +1,6 @@
-**Setup Termux Standar**
+**SETUP TERMUX STANDAR
 
-Update package termux
+**Update package termux
 
 > pkg update && pkg upgrade       
 
@@ -11,7 +11,7 @@ Update package termux
 > sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)   
 
 
-Jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux 
+**Jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux 
 
 > 'clear'                                           
 > figlet welcome | lolcat                               
@@ -19,7 +19,7 @@ Jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux
 > echo '============================\n' | lolcat            
 > cd /sdcard                        
 
-Copy perintah diatas di bagian paling bawa
+**Copy perintah diatas di bagian paling bawah file
 
 $ pkg install git python
 $ git clone https://github.com/anarki-install/terkey
