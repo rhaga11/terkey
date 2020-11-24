@@ -3,7 +3,7 @@
 > pkg update && pkg upgrade           
 > pkg install curl figlet ruby                         
 > gem install lolcat                                
-> sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)   
+> sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"   
 
 **Jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux**
 
