@@ -39,3 +39,7 @@ cd /sdcard
 
 **Note :**
 >- Perintah yg di copy tadi bisa diubah sesuai kemauan anda.
+>- Kamu bisa cari custom tema termux [disini](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
+   Tinggal ganti tulisan `agnoster' dengan tema pilihan mu
+
+![](https://i.ibb.co/tx70Rdg/IMG-20201125-015146.jpg)
