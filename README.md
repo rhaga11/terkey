@@ -9,7 +9,7 @@
 
 **Pilih salah satu warna dan ukuran termux pilihan anda**
 
-![](https://i.ibb.co/yf5YpVZ/photo-2020-11-24-20-16-05.jpg)
+![](https://i.ibb.co/CwB1kPp/photo-2020-11-24-20-26-31.jpg)
 
 **Restart termux menggunakan `$exit`**                                  
 **Kemudin jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux**
