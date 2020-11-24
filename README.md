@@ -5,7 +5,7 @@
 > $ gem install lolcat                                
 > $ sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"   
 
-**Pilih salah satu warna dan ukuran termux**
+**Pilih salah satu warna dan ukuran termux pilihan anda**
 
 ![](https://i.ibb.co/yf5YpVZ/photo-2020-11-24-20-16-05.jpg)
 
