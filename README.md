@@ -12,11 +12,13 @@
 **Restart termux menggunakan `$exit`**                                  
 **Kemudin jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux**
 
-> 'clear'               
-> figlet welcome | lolcat                  
-> date | lolcat                   
-> echo '============================\n' | lolcat              
-> cd /sdcard                        
+```
+'clear'               
+figlet welcome | lolcat                  
+date | lolcat                   
+echo '============================\n' | lolcat              
+cd /sdcard                        
+```
 
 **Copy perintah diatas dan paste dibagian paling bawah file**
 
