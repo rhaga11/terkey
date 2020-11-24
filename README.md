@@ -1,3 +1,5 @@
+## HOW TO SETUP TERMUX 
+
 **Update package termux**
 
 > $ `pkg update && pkg upgrade`          
