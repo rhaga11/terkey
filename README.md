@@ -5,6 +5,8 @@
 > gem install lolcat                                
 > sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"   
 
+![](https://i.ibb.co/yf5YpVZ/photo-2020-11-24-20-16-05.jpg)
+
 **Jalankan perintah `nano ~/.zshrc` untuk mengedit interface termux**
 
 > 'clear'               
