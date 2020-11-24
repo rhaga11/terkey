@@ -2,7 +2,7 @@
 
 Update package termux
 
-> pkg update && pkg upgrade
+> pkg update && pkg upgrade\n
 > pkg install curl figlet ruby
 > gem install lolcat
 > sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)
